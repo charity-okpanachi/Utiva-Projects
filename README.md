@@ -1,1 +1,1 @@
-My Python lessons
+Projects and assignments done while learning at Utiva
